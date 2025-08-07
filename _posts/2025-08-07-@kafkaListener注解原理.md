@@ -1,3 +1,8 @@
+---
+categories: [中间件]
+tags: [kafka,注解]
+---
+
 # @KafkaListener注解
 
 `@KafkaListener`是 Spring Kafka 提供的核心注解，用于声明方法作为 Kafka 消息的监听器，简化消息消费逻辑的实现
