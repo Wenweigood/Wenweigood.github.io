@@ -25,3 +25,11 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+node_modules/
+*.lock
+
